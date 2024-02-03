@@ -16,6 +16,14 @@ Greetings! I am Waqas Naveed, and I'm thrilled to present my database project, a
 ![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/f5a50a67-5f7e-4f39-bc16-b84d3635bb2d)
 
 ![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/6c941c7b-c6a7-4613-9f18-ded0127f11df)
+![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/644129b6-ae1c-4174-9aba-0104e1751564)
+
+![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/a0848c7b-ba41-403a-923f-54f7bcc2b80a)
+![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/0b418ead-a688-4634-9dd5-3cd1a9365d46)
+![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/3a50fa6e-e4c4-473d-95d3-dd204441b74b)
+![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/e3b7f736-9bc9-41ef-90e9-e2cce6b29793)
+PDF
+![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/f86f4a1c-9af8-44b1-9c2f-8079b62b984c)
 
 ## Usage
 ### 1. Clone the Repository:
@@ -34,14 +42,7 @@ Build and execute the application in Visual Studio.
 Navigate through the user-friendly interface to effortlessly add, update, and view events and speaker information.
 PDF Conversion
 Transforming your data files into PDF format is a breeze. Follow these steps:
-![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/644129b6-ae1c-4174-9aba-0104e1751564)
-
-![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/a0848c7b-ba41-403a-923f-54f7bcc2b80a)
-![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/0b418ead-a688-4634-9dd5-3cd1a9365d46)
-![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/3a50fa6e-e4c4-473d-95d3-dd204441b74b)
-![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/e3b7f736-9bc9-41ef-90e9-e2cce6b29793)
-PDF
-![image](https://github.com/Waqas56jb/Event-Management-System/assets/156122615/f86f4a1c-9af8-44b1-9c2f-8079b62b984c)
+ 
 
 1. Navigate to the Export Section:
 Locate the "Export to PDF" option in the application.
